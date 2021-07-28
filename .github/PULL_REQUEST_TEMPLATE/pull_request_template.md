@@ -7,7 +7,7 @@ This PR...
 ## Checklist
 - [ ] tested locally
 - [ ] updated the docs
-- [ ] added a test
+- [ ] added appropriate test
 - [ ] signed-off on the above mentioned SoftwareAG contributor agreement via -s on my commits.
 
 Fixes #
